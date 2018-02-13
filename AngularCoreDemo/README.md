@@ -4,8 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run 'dotnet watch run'
-Run 'ng serve --proxy-config proxy.config.json --open' to open the app
+Run 'dotnet watch run' to start watching the code changes.
+Run 'ng serve --proxy-config proxy.config.json --open' to run the app.
 
 ## Code scaffolding
 
