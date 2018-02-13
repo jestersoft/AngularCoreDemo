@@ -4,7 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run 'dotnet watch run'
+Run 'ng serve --proxy-config proxy.config.json --open' to open the app
 
 ## Code scaffolding
 
