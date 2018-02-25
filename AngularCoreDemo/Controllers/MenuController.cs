@@ -8,14 +8,14 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace AngularCoreDemo.Controllers
 {
-  [Route("api/[controller]")]
-  public class MenuController : Controller
-  {
-    // GET: api/<controller>
-    [HttpGet]
-    public IEnumerable<string> Get()
+    [Route("api/[controller]")]
+    public class MenuController : Controller
     {
-      return new string[] { "Home", "Values", "About" };
+        // GET: api/<controller>
+        [HttpGet]
+        public IEnumerable<string> Get()
+        {
+            return new string[] { "Home", "Values", "Misc", "About" };
+        }
     }
-  }
 }

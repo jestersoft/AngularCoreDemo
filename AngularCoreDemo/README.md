@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.8.
 
+## Used components
+
+This project uses [Angular Material] (https://material.angular.io/) version 5.2.x.
+
 ## Development server
 
 Run `dotnet watch run` to start watching the code changes.

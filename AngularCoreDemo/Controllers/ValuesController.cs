@@ -16,7 +16,7 @@ namespace AngularCoreDemo
         public IEnumerable<string> Get()
         {
             var str = new List<string>();
-            for (int i = 1; i <= 10; i++)
+            for (int i = 1; i <= 50; i++)
             {
                 str.Add(item: "Value " + i);
             }

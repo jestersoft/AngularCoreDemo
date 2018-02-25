@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/AngularCoreDemo/bin/Debug/netcoreapp2.0
+/AngularCoreDemo/node_modules
+/AngularCoreDemo/obj
